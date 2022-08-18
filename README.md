@@ -1,6 +1,7 @@
 ## flask-example
 
 This is a simple dual-endpoint web application.
+See [example](https://www.agilicus.com/examples/sample-dual-endpoint-web-application-dashboard-api)
 
 Usage:
 
